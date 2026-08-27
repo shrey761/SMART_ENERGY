@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "243912527227",
+    "firebase_url": "https://voltix-1bac0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "voltix-1bac0",
+    "storage_bucket": "voltix-1bac0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243912527227:android:a784389b3eea7a528341de",
+        "android_client_info": {
+          "package_name": "com.example.smartenergy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR4ln1TPX0oZVvmoRsNqQYYbFDR53L5Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
